@@ -1,0 +1,6 @@
+if SHIELD_METEOR_SIDEKICK
+
+config ZMK_KEYBOARD_NAME
+    default "Meteor Sidekick"
+
+endif
