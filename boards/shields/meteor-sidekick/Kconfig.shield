@@ -1,2 +1,2 @@
 config SHIELD_METEOR_SIDEKICK
-    def_bool $(shields_list_contains,my_board)
+    def_bool $(shields_list_contains,meteor_sidekick)
